@@ -1,2 +1,2 @@
 # docker-compose-project
-My first Docker project using Nginx and Docker Compose.
+My second Docker Compose project
